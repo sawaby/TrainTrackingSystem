@@ -1,0 +1,14 @@
+#head{
+	background-color: brown;
+	color: white;
+}
+#phead{
+	background-color: brown;
+
+}
+#submit{
+	margin: 20px;
+}
+thead{
+	font-weight: bold;
+}
